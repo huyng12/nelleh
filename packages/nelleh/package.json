@@ -1,0 +1,14 @@
+{
+  "name": "nelleh",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "author": "Huy Nguyen",
+  "description": "Library for querying React components like querySelector",
+  "source": "src/index.ts",
+  "main": "dist/main.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  }
+}
